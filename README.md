@@ -5,9 +5,11 @@
 
 ## Dashbord Screenshots
 -------------------------------------
-![4](https://user-images.githubusercontent.com/87044703/232536293-460588bf-eccd-433f-a5e5-0f676c745a23.jpg)
-![3](https://user-images.githubusercontent.com/87044703/232536296-33d19e8c-8d1b-4d94-870e-382c5d4ba67b.jpg)
 ![2](https://user-images.githubusercontent.com/87044703/232536300-66e8e0ed-9307-460b-8def-1a27b75fe5d7.jpg)
+![3](https://user-images.githubusercontent.com/87044703/232536296-33d19e8c-8d1b-4d94-870e-382c5d4ba67b.jpg)
+![4](https://user-images.githubusercontent.com/87044703/232536293-460588bf-eccd-433f-a5e5-0f676c745a23.jpg)
+
+
 
 the background information on my task :
 -------------------------------------
